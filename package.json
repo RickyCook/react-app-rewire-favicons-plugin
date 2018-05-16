@@ -1,0 +1,24 @@
+{
+  "name": "react-app-rewire-favicons-plugin",
+  "version": "1.0.0",
+  "description": "Add favicons-webpack-plugin to a react-app-rewired config.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickyCook/react-app-rewire-favicons-plugin.git"
+  },
+  "keywords": [
+    "favicons",
+    "webpack",
+    "react-app-rewired"
+  ],
+  "author": "Ricky Cook <npm@auto.thatpanda.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RickyCook/react-app-rewire-favicons-plugin/issues"
+  },
+  "homepage": "https://github.com/RickyCook/react-app-rewire-favicons-plugin#readme",
+  "dependencies": {
+    "favicons-webpack-plugin": "^0.0.9"
+  }
+}
